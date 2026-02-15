@@ -8,10 +8,10 @@ export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 export let singlePage = false;
 
 export const info = {
-    firstName: "Vasanth",
-    lastName: "Kumar",
-    initials: "S", 
-    position: "a Full Stack Developer",
+    firstName: "Sai Chandu",
+    lastName: "Addanki",
+    initials: "A", 
+    position: "Analog Layout Design Engineer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
     baseColor: colors[0],
@@ -22,11 +22,11 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Full Stack Developer"
+            text: "Analog Layout Design Engineer"
         },
         {
             emoji: "📧",
-            text: "vasanth2003s@gmail.com"
+            text: "asaichandunaidu@gmail.com"
         }
     ],
     socials: [
